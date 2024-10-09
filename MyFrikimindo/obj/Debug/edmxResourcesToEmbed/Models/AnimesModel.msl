@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FrikimundoDBModel5StoreContainer" CdmEntityContainer="FrikimundoDBEntities7">
+    <EntitySetMapping Name="AnimesTable">
+      <EntityTypeMapping TypeName="FrikimundoDBModel5.AnimesTable">
+        <MappingFragment StoreEntitySet="AnimesTable">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+          <ScalarProperty Name="Genero" ColumnName="Genero" />
+          <ScalarProperty Name="Capitulos" ColumnName="Capitulos" />
+          <ScalarProperty Name="Temporadas" ColumnName="Temporadas" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FrikimundoDBModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="SeriesTable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Titulo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Genero" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Temporasas" Type="Int32" />
+    <Property Name="Capitulos" Type="Int32" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" Precision="0" />
+  </EntityType>
+  <EntityContainer Name="FrikimundoDBEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="SeriesTable" EntityType="Self.SeriesTable" />
+  </EntityContainer>
+</Schema>

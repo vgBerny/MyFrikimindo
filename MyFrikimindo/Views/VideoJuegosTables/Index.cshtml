@@ -1,0 +1,52 @@
+﻿@model IEnumerable<MyFrikimindo.Models.VideoJuegosTable>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="title-header">Video Juegos</h2>
+
+<p>
+    @Html.ActionLink("Agregar Video Juego", "Create", null, new { @class = "btn btn-primary" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Plataforma)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Genero)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Plataforma)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.Id }, new { @class = "btnAction" })
+                @Html.ActionLink("Detalles", "Details", new { id = item.Id }, new { @class = "btnAction" })
+                @Html.ActionLink("Eliminar", "Delete", new { id = item.Id }, new { @class = "btnAction" })
+            </td>
+        </tr>
+    }
+
+</table>

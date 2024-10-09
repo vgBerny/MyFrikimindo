@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FrikimundoDBModel3.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="LibrosTable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Titulo" Type="nvarchar" MaxLength="50" />
+    <Property Name="Autor" Type="nvarchar" MaxLength="50" />
+    <Property Name="Genero" Type="nvarchar" MaxLength="50" />
+    <Property Name="Saga literaria" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fecha" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="FrikimundoDBModel3StoreContainer">
+    <EntitySet Name="LibrosTable" EntityType="Self.LibrosTable" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

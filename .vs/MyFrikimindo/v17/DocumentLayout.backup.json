@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|c:\\users\\user\\onedrive\\escritorio\\myfrikimindo\\myfrikimindo\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|solutionrelative:myfrikimindo\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\myfrikimindo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|solutionrelative:myfrikimindo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\myfrikimindo\\views\\peliculastables\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|solutionrelative:myfrikimindo\\views\\peliculastables\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\myfrikimindo\\views\\animestables\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|solutionrelative:myfrikimindo\\views\\animestables\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\myfrikimindo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|solutionrelative:myfrikimindo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\myfrikimindo\\views\\animestables\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|solutionrelative:myfrikimindo\\views\\animestables\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\myfrikimindo\\views\\peliculastables\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|solutionrelative:myfrikimindo\\views\\peliculastables\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\myfrikimindo\\views\\seriestables\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|solutionrelative:myfrikimindo\\views\\seriestables\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\myfrikimindo\\views\\animestables\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{669BCF08-4EBF-4E7F-9917-5F5AA8A7CC64}|MyFrikimindo\\MyFrikimindo.csproj|solutionrelative:myfrikimindo\\views\\animestables\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\AnimesTables\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyFrikimindo\\Views\\AnimesTables\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\AnimesTables\\Index.cshtml",
+              "RelativeToolTip": "MyFrikimindo\\Views\\AnimesTables\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T22:54:42.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\AnimesTables\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyFrikimindo\\Views\\AnimesTables\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\AnimesTables\\Edit.cshtml",
+              "RelativeToolTip": "MyFrikimindo\\Views\\AnimesTables\\Edit.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T00:58:36.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\PeliculasTables\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyFrikimindo\\Views\\PeliculasTables\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\PeliculasTables\\Edit.cshtml",
+              "RelativeToolTip": "MyFrikimindo\\Views\\PeliculasTables\\Edit.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwDkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T00:40:21.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\SeriesTables\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyFrikimindo\\Views\\SeriesTables\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\SeriesTables\\Create.cshtml",
+              "RelativeToolTip": "MyFrikimindo\\Views\\SeriesTables\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T22:20:00.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\AnimesTables\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyFrikimindo\\Views\\AnimesTables\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\AnimesTables\\Create.cshtml",
+              "RelativeToolTip": "MyFrikimindo\\Views\\AnimesTables\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T20:07:28.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Content\\Site.css",
+              "RelativeDocumentMoniker": "MyFrikimindo\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Content\\Site.css",
+              "RelativeToolTip": "MyFrikimindo\\Content\\Site.css",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwFIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-04T19:45:21.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyFrikimindo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyFrikimindo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T19:26:57.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyFrikimindo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyFrikimindo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T18:59:20.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\PeliculasTables\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyFrikimindo\\Views\\PeliculasTables\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\MyFrikimindo\\MyFrikimindo\\Views\\PeliculasTables\\Create.cshtml",
+              "RelativeToolTip": "MyFrikimindo\\Views\\PeliculasTables\\Create.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T18:58:55.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

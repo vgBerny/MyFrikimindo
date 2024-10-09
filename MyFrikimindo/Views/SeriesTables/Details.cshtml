@@ -1,0 +1,58 @@
+﻿@model MyFrikimindo.Models.SeriesTable
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2 class="title-header">Series</h2>
+
+<div>
+    <h3 class="subtitle-small">Detalles de Serie</h3>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Genero)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Genero)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Temporasas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Temporasas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Capitulos)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Capitulos)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.Id }, new { @class = "btn btn-primary" })
+    @Html.ActionLink("Atras", "Index", null, new { @class = "btn btn-primary" })
+</p>

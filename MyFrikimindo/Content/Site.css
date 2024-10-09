@@ -1,0 +1,130 @@
+﻿/* Set padding to keep content from hitting the edges */
+.body-content {
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+body {
+    background-image: url('../imagen/fondo9.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(173, 216, 230, 0.5); /* Fondo celeste con 50% de transparencia */
+}
+
+.btnAction {
+    background-color: #7edb4f;
+    color: #fff;
+    padding: 6px 6px;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-right: 3px;
+}
+
+    .btnAction:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+        text-decoration: none;
+        color: #ffd800;
+    }
+
+.fondodiv {
+    border-radius: 10px;
+    font-family: Verdana;
+    text-align: justify;
+    font-size: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    padding-top: 45px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 4%;
+    margin-bottom: 5px;
+    background-color: white;
+}
+.btn {
+    padding: 6px 6px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none; /* Elimina el subrayado del enlace */
+}
+
+.btn-primary {
+    background-color: #7edb4f; /* Color de fondo */
+    color: white; /* Color de la letra */
+}
+
+    .btn-primary:hover {
+        background-color: gray; /* Color de fondo al pasar el ratón */
+        color: #fff; /* Color de la letra al pasar el ratón */
+    }
+
+.title-biblioteca {
+    font-size: 2em; /* Tamaño de la fuente */
+    font-weight: bold; /* Grosor de la fuente */
+    color: #333; /* Color de la letra */
+    background-color: rgba(186, 26, 26, 0.6); /* Color de fondo*/
+    padding: 15px; /* Espaciado interno */
+    margin: 20px 0; /* Espaciado externo arriba y abajo */
+    border-left: 5px solid #007bff; /* Línea vertical a la izquierda */
+    border-radius: 5px; /* Bordes redondeados */
+    text-align: center; /* Alinear el texto al centro */
+    font-family: 'Arial', sans-serif; /* Fuente de la letra */
+    overflow: auto;
+}
+.title-header {
+    font-size: 2.5em; /* Ajusta el tamaño del texto */
+    background-color: rgba(0, 128, 128, 0.3); /* Fondo con transparencia */
+    padding: 10px; /* Espaciado interno */
+    text-align: left; /* Centrar el texto */
+    border-radius: 10px; /* Bordes redondeados */
+    color: #333; /* Color del texto */
+    margin-bottom: 20px; /* Espaciado debajo del encabezado */
+}
+.subtitle-small {
+    font-size: 1.5em; /* Tamaño de la fuente menor que h2 pero más grande que el texto normal */
+    font-weight: normal; /* Grosor de la fuente normal */
+    color: #555; /* Color de la letra más suave */
+    background-color: rgba(255, 165, 0, 0.5); /* Color de fondo suave */
+    padding: 8px; /* Espaciado interno */
+    margin: 10px 0; /* Espaciado externo arriba y abajo */
+    border-bottom: 1px solid #ccc; /* Línea horizontal debajo del subtítulo */
+    text-align: left; /* Alinear el texto a la izquierda */
+    font-family: 'Arial', sans-serif; /* Fuente de la letra */
+}
+
+.header-image {
+    width: 200px; /* Ajusta el ancho de la imagen */
+    height: auto; /* Mantiene la proporción */
+    /*vertical-align: middle; /* Alinea verticalmente la imagen con el texto */
+    float: right;
+    margin-left: 20px; /* Espaciado a la derecha de la imagen */
+    margin-right: 10px;
+}
+
+
+.custom-image {
+    width: 200px; /* Ajusta el ancho de la imagen */
+    height: auto; /* Mantiene la proporción */
+    /*vertical-align: middle; /* Alinea verticalmente la imagen con el texto */
+    float: left;
+    margin-left: 10px; /* Espaciado a la derecha de la imagen */
+    margin-right: 20px;
+}
