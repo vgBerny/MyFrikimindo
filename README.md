@@ -10,4 +10,4 @@ the ranking you give it, and thus you have the entertainment media you consume o
 * [Personal page](https://vgberny.pythonanywhere.com)
 
 ## See the live example
-- [https://vgberny.github.io/Vily_VirtualLibrary/](https://vgberny.github.io/Vily_VirtualLibrary/)
+- [https://vgberny.github.io/MyFrikimindo/](https://vgberny.github.io/MyFrikimindo/)
