@@ -9,5 +9,3 @@ the ranking you give it, and thus you have the entertainment media you consume o
 * [LinkedIn](linkedin.com/in/vgberny/)
 * [Personal page](https://vgberny.pythonanywhere.com)
 
-## See the live example
-- [https://vgberny.github.io/MyFrikimindo/](https://vgberny.github.io/MyFrikimindo/)
